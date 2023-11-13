@@ -3,6 +3,8 @@
 # Last modified: 13 Nov 2023, 13:28
 # Version: 2023.11.13.1
 
+
+#Sites de Games
 0.0.0.0 gartic.com	
 0.0.0.0 Exact blacklist
 0.0.0.0 www.jogos360.com.br	
@@ -80,11 +82,9 @@
 0.0.0.0 pokigameonline.com
 0.0.0.0 pokigames.com.br
 0.0.0.0 pokigames.us
-0.0.0.0 porn
 0.0.0.0 pt.thejigsawpuzzles.com
 0.0.0.0 pt.y8.com
 0.0.0.0 rachacuca.com.br
-0.0.0.0 sandrinha.com.br
 0.0.0.0 solitr.com
 0.0.0.0 steampowered.com
 0.0.0.0 store.epicgames.com
@@ -133,7 +133,6 @@
 0.0.0.0 www.playpkxd.com
 0.0.0.0 www.poki.co.in
 0.0.0.0 www.pokigames.us
-0.0.0.0 www.sandrinha.com.br
 0.0.0.0 www.sega.com
 0.0.0.0 www.solitr.com
 0.0.0.0 www.t89ii.com
@@ -145,3 +144,114 @@
 0.0.0.0 xbox.com
 0.0.0.0 y8.com
 0.0.0.0 yandex.com
+0.0.0.0 cs-online.club
+0.0.0.0 worldofsolitaire.com
+0.0.0.0 pogo.com
+0.0.0.0 miniclip.com
+0.0.0.0 addictinggames.com
+0.0.0.0 crazygames.com
+0.0.0.0 betonline.ag
+0.0.0.0 lotterypost.com
+0.0.0.0 bet365.com
+0.0.0.0 flalottery.com
+0.0.0.0 lasatlantis.com
+0.0.0.0 bovada.lv
+0.0.0.0 clickjogos.com.br
+0.0.0.0 www.clickjogos.com.br
+0.0.0.0 netjogosonline.com.br
+0.0.0.0 1001jogos.com.br
+0.0.0.0 roundgames.com
+0.0.0.0 thewikigame.com
+0.0.0.0 stopots.com
+0.0.0.0 gartic.com.br
+0.0.0.0 www.ojogos.com.br
+0.0.0.0 armorgames.com
+0.0.0.0 www.netjogos.com
+0.0.0.0 www.jogos123.net
+0.0.0.0 www.brincar.pt
+0.0.0.0 twitch.tv
+0.0.0.0 roblox.com
+0.0.0.0 chess.com
+0.0.0.0 nettruyenus.com
+0.0.0.0 douyu.com
+0.0.0.0 steampowered.com
+0.0.0.0 linkkf.app
+0.0.0.0 steamcommunity.com
+0.0.0.0 gamewith.jp
+0.0.0.0 ign.com
+0.0.0.0 game8.jp
+0.0.0.0 5ch.net
+0.0.0.0 lichess.org
+0.0.0.0 gamer.com.tw
+0.0.0.0 nexusmods.com
+0.0.0.0 gamespot.com
+0.0.0.0 gamerant.com
+0.0.0.0 poe.com
+0.0.0.0 rummycircle.com
+0.0.0.0 futbin.com
+0.0.0.0 op.gg
+0.0.0.0 huya.com
+0.0.0.0 inven.co.kr
+0.0.0.0 kemono.su
+
+
+#sites Porn
+0.0.0.0 sandrinha.com.br
+0.0.0.0 www.sandrinha.com.br
+0.0.0.0 pornhub.com
+0.0.0.0 pt.pornhub.com
+0.0.0.0 xvideos.com
+0.0.0.0 www.xvideos.com
+0.0.0.0 xvideos.com.br
+0.0.0.0 www.xvideos.com.br
+0.0.0.0 xvideosx.com
+0.0.0.0 www.xvideos-br.com
+0.0.0.0 xvideos18.com.br
+0.0.0.0 xnxx.com
+0.0.0.0 xnxxbr.net
+0.0.0.0 xnxx.eco.br
+0.0.0.0 filmesporno.net.br
+0.0.0.0 pornobrasil.blog.br
+0.0.0.0 megatvonline.github.io
+0.0.0.0 Xvideos.com
+0.0.0.0 Cameraprive.com
+0.0.0.0 www.xnudes.net
+0.0.0.0 nudes.blog.br
+
+#sites filmes
+0.0.0.0 hulu.com
+0.0.0.0 twitch.tv
+0.0.0.0 dailymotion.com
+0.0.0.0 crunchyroll.com
+0.0.0.0 fmovies.to
+0.0.0.0 hbomax.com
+
+
+#lojas online
+0.0.0.0 amazon.com
+0.0.0.0 amazon.ca
+0.0.0.0 ebay.com
+0.0.0.0 walmart.com
+0.0.0.0 etsy.com
+0.0.0.0 target.com
+0.0.0.0 costco.com
+0.0.0.0 bestbuy.com
+0.0.0.0 newegg.com
+0.0.0.0 wish.com
+0.0.0.0 wayfair.com
+
+#redes sociais e afins
+0.0.0.0 tinder.com
+0.0.0.0 match.com
+0.0.0.0 pof.com
+0.0.0.0 okcupid.com
+0.0.0.0 zoosk.com
+0.0.0.0 bumble.com
+0.0.0.0 seeking.com
+0.0.0.0 happn.com
+0.0.0.0 omegle.com
+0.0.0.0 tinychat.com
+0.0.0.0 chatroulette.com
+0.0.0.0 chatrandom.com
+
+
