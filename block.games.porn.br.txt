@@ -1,7 +1,7 @@
 # Title: Block Games e Porn BR
 # Description: Bloqueia os principais sites de jogos e Pornograficos.
 # Last modified: 13 Nov 2023, 13:28
-# Version: 2023.11.13.1
+# Version: 2023.11.22
 
 
 #Sites e Games
